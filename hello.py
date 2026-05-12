@@ -1,1 +1,2 @@
-print("Hello from WSL")
+print("Hello, Git")
+print("Hello, World")
